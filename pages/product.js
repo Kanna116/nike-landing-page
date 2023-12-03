@@ -20,7 +20,7 @@ const product = (props) => {
                 <div className='.product-left w-1/2 h-full bg-black-100 '>
                     <Image
                         src={nikeImage}
-                        className='object-cover w-full h-full p-24 '
+                        className='object-contain w-full h-full p-5  '
                         alt="Picture of the author"
                     />
                 </div>
